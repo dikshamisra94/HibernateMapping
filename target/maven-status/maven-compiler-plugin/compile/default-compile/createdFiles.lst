@@ -1,0 +1,4 @@
+com\infogain\model\Customer.class
+com\infogain\main\MainApplication.class
+com\infogain\util\HibernateUtil.class
+com\infogain\model\Address.class
